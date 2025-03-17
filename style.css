@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("/images/cumulus-clouds-storm-dark-clouds-sun-light-extreme-weather-3840x2160-3609.jpg");
+    background: url("./images/cumulus-clouds-storm-dark-clouds-sun-light-extreme-weather-3840x2160-3609.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -17,7 +17,7 @@ body{
     position: relative;
     width: 400px;
     height: 555px;
-    background: url("/images/back.jpg");
+    background: url("./images/back.jpg");
     backdrop-filter: blur(50%);
     border: 2px solid rgb(34, 2, 2);
     border-radius: 16px;
